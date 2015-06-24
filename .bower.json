@@ -1,7 +1,24 @@
 {
   "name": "smartbanner",
+  "version": "0.0.1",
+  "main": ["jquery.smartbanner.js", "jquery.smartbanner.css"],
   "homepage": "https://github.com/jasny/jquery.smartbanner",
-  "version": "1.0.0",
+  "ignore": [
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    "bower_components",
+    "node_modules",
+    "karma.conf.js",
+    "package.json",
+    "gulpfile.js",
+    "examples",
+    "coverage",
+    "test"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  },
   "_release": "1.0.0",
   "_resolution": {
     "type": "version",
