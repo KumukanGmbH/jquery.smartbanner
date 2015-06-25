@@ -1,6 +1,6 @@
 {
   "name": "jquery.smartbanner.kumukan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": [
     "jquery.smartbanner.js",
     "jquery.smartbanner.css"
@@ -24,12 +24,12 @@
   "dependencies": {
     "jquery": "latest"
   },
-  "_release": "0.0.1",
+  "_release": "0.0.2",
   "_resolution": {
     "type": "version",
-    "tag": "v0.0.1"
+    "tag": "v0.0.2"
   },
   "_source": "git@github.com:KumukanGmbH/jquery.smartbanner.git",
-  "_target": "0.0.1",
+  "_target": "0.0.2",
   "_originalSource": "https://github.com/jasny/jquery.smartbanner.git"
 }
