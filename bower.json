@@ -1,7 +1,10 @@
 {
-  "name": "smartbanner",
+  "name": "jquery.smartbanner.kumukan",
   "version": "0.0.1",
-  "main": ["jquery.smartbanner.js", "jquery.smartbanner.css"],
+  "main": [
+    "jquery.smartbanner.js",
+    "jquery.smartbanner.css"
+  ],
   "homepage": "https://github.com/jasny/jquery.smartbanner",
   "ignore": [
     ".gitignore",
@@ -14,9 +17,20 @@
     "gulpfile.js",
     "examples",
     "coverage",
-    "test"
+    "test",
+    "**/.*",
+    "tests"
   ],
   "dependencies": {
     "jquery": "latest"
-  }
+  },
+  "authors": [
+    "alfonz.borsos@kumukan.com"
+  ],
+  "keywords": [
+    "smartbanner",
+    "ios",
+    "android"
+  ],
+  "license": "MIT"
 }
